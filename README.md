@@ -1,5 +1,5 @@
 # project keepit
-keepIT
+![screenshot 14](https://user-images.githubusercontent.com/28348565/39327126-49214d62-49c1-11e8-91b3-c5229594532d.png)
 
 ## ผู้จัดทำ
 - นายยุทธพงศ์ คุณชมภู   580510623
@@ -12,5 +12,8 @@ keepIT
 - python3.5 https://www.python.org/
 - pip install Pillow
 
+## Run project on command 
+- python keepIT.py
 
-![alt text]https://github.com/JeerasakAnanta/keepIT/blob/master/Poster.png
+
+
