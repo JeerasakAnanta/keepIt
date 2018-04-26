@@ -15,5 +15,5 @@
 ## Run project on command 
 - python keepIT.py
 
-
-
+## poster
+![poster](https://user-images.githubusercontent.com/28348565/39327425-2ef2e68e-49c2-11e8-9fba-10b153ead687.png)
