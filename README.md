@@ -1,7 +1,7 @@
 # project keepit
 keepIT
 
-# ผู้จัดทำ
+## ผู้จัดทำ
 	นายยุทธพงศ์ คุณชมภู   580510623
 	นายจีระศักดิ์ อนันต๊ะ	    600510536
 	นายปณิธิ เครื่องสนุก     600510559
@@ -13,4 +13,4 @@ python3.5 https://www.python.org/
 pip install Pillow
 
 
-![alt text]
+![alt text]https://github.com/JeerasakAnanta/keepIT/blob/master/Poster.png
